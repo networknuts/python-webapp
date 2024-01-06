@@ -1,3 +1,3 @@
-usrename = input("Enter username: ")
+username = input("Enter username: ")
 
 print(username)
